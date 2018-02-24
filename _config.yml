@@ -1,5 +1,5 @@
-name: ExOptsTeam Website
-description: ExOptsTeam Official Website
+name: StormWiki Website
+description: StormWiki Official Website
 author: bads.tm
 
 #### Under the Hood Stuff #####
@@ -21,14 +21,14 @@ permalink: /404.HTML
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
-  
+
 # ###### bads SEO tags
-title: 
-description: 
-url: https://extraoptions.github.io/ # Can break main site if URL was moved, best to replace for forks and etc
+title:
+description:
+url: https://stormregion.github.io/StormWiki # Can break main site if URL was moved, best to replace for forks and etc
 twitter:
-  username: nlgzrgn
-  
+  username: bads_tm
+
 #facebook:
 # app_id: 1234
 # publisher: 1234
@@ -47,4 +47,3 @@ webmaster_verifications:
 #  bing: 1234
 #  alexa: 1234
 #  yandex: 1234
-
